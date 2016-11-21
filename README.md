@@ -4,5 +4,5 @@ Easiest way to block ads :) No app or proxy required.
 
 # Steps
 1. Root required
-2. Install android emulator 
+2. Install android Terminal emulator or Replace existing /etc/hosts file with above hosts file
 3. Replace the hosts file from the repo to the existing hosts file present in /etc/hosts
