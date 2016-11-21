@@ -1,0 +1,1 @@
+cp -fr hosts /etc/hosts
