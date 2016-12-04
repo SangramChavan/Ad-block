@@ -1,0 +1,6 @@
+{
+  "name": "Ad-block",
+  "tagline": "Manually block all ads by replacing hosts file #Windows #Linux #Android",
+  "body": "# Ad-block - Block unwanted URLS keep internet safe\r\nABP, Ghostry etc extension consume CPU and memory which might result in low performance.\r\nAlso few websites detect such extensions and can use alternate methods to show ads.\r\nBlock all ads by replacing hosts file.\r\nEasiest way to block ads :) No app or proxy required.\r\n\r\n# Steps\r\n1. Find the hosts file - root/etc/hosts\r\n2. Replace your hosts file with above hosts file\r\n\r\n# Found a Phishing website or link ?\r\nOpen issue. OR Follow the convention provided below to add the link.\r\nBlock malicious links or website. One step to safe internet.\r\n\r\n# How to contribute ?\r\nOpen a issue OR add urls in the hosts file\r\nyou may leave a comment and your name if you wish name (optional)\r\ne.g \r\n\r\n127.0.0.1 www.annoyinglinksads.com ##[ScamFraudAlert] Submitted by abc\r\n\r\n                   OR\r\n\r\n127.0.0.1 www.annoyinglinksads.com ##[Misleading url]  \r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
