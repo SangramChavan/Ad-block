@@ -13,10 +13,12 @@ Open issue. OR Follow the convention provided below to add the link.
 Block melicious links or website. One step to safe internet.
 
 # How to contribute ?
-add urls in the hosts file which display ads
-you may leave a comment using your name if you wish name (optional)
+Open a issue OR add urls in the hosts file
+you may leave a comment and your name if you wish name (optional)
 e.g 
 
 127.0.0.1 www.annoyinglinksads.com ##[ScamFraudAlert] Submitted by abc
 
-127.0.0.1 www.annoyinglinksads.com ##[ScamFraudAlert]  
+                   OR
+
+127.0.0.1 www.annoyinglinksads.com ##[Misleading url]  
