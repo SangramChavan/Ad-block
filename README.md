@@ -14,7 +14,9 @@ Block melicious links or website. One step to safe internet.
 
 How to contribute ?
 add urls in the hosts file which display ads
-you may leave a comment using your name
+you may leave a comment using your name if you wish name (optional)
 e.g 
 
-127.0.0.1 www.adszone.com ##[ScamFraudAlert] Submitted by abc 
+127.0.0.1 www.annoyinglinksads.com ##[ScamFraudAlert] Submitted by abc 
+                    OR
+127.0.0.1 www.annoyinglinksads.com ##[ScamFraudAlert]  
