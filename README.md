@@ -1,5 +1,5 @@
 # Ad-block - Block unwanted URLS keep internet safe
-ABP, Ghostry etc extension consume CPU and memory which might result in low performence.
+ABP, Ghostry etc extension consume CPU and memory which might result in low performance.
 Also few websites detect such extensions and can use alternate methods to show ads.
 Block all ads by replacing hosts file.
 Easiest way to block ads :) No app or proxy required.
@@ -10,7 +10,7 @@ Easiest way to block ads :) No app or proxy required.
 
 # Found a Phishing website or link ?
 Open issue. OR Follow the convention provided below to add the link.
-Block melicious links or website. One step to safe internet.
+Block malicious links or website. One step to safe internet.
 
 # How to contribute ?
 Open a issue OR add urls in the hosts file
