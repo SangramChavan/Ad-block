@@ -4,11 +4,11 @@ Also few websites detect such extensions and can use alternate methods to show a
 Block all ads by replacing hosts file.
 Easiest way to block ads :) No app or proxy required.
 
-Total entries Unified hosts + fakenews + gambling + porn # 92345+  
+Total entries Unified hosts + fakenews + gambling + porn = 92345+  
 
 Extending and consolidating hosts files from a variety of sources like adaway.org, mvps.org, malwaredomainlist.com, someonewhocares.org, yoyo.org, and potentially others. You can optionally invoke extensions to block additional sites by category. 
 
-Last updated : #December 28 2016.
+Last updated : December 28 2016.
 
 
 # Steps
