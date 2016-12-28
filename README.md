@@ -21,7 +21,7 @@ Block malicious links or website. One step to safe internet.
 
 # How to contribute ?
 Open a issue OR add urls in the hosts file
-you may leave a comment and your name if you wish name (optional)
+you may leave a comment and your name if you wish (optional)
 e.g 
 
 0.0.0.0 www.annoyinglinksads.com ##[ScamFraudAlert] Submitted by abc
