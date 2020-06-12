@@ -30,4 +30,4 @@ e.g
 
 0.0.0.0 www.annoyinglinksads.com ##[Misleading url]  
 
-Submit website to block under: By creating a new [issue][https://github.com/SangramChavan/Ad-block/issues/new]
+Submit website to block under: By creating a new [issue](https://github.com/SangramChavan/Ad-block/issues/new)
